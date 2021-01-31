@@ -1,6 +1,6 @@
-Plugin para Cordova que combina funcionalidades útiles para integración con aplicaciones Foxtrot para evitar gran cantidad de dependencias con plugins de terceros.
+Plugin para Cordova que combina funcionalidades útiles con el fin de evitar gran cantidad de dependencias con plugins de terceros.
 
-*Actualmente este plugin no se encuentra en desarrollo.* Lo mantenemos como plantilla, en caso de que se desee retomar su desarrollo en el futuro.
+*Actualmente este plugin no se encuentra en desarrollo.* Lo mantenemos publicado como plantilla, en caso de que se desee retomar su desarrollo en el futuro, o en caso de que te sirva para iniciar rápidamente el desarrollo de un plugin nuevo.
 
 **[Repositorio principal del proyecto](https://github.com/gquagliano/experimental-foxtrot-framework)**
 
@@ -8,7 +8,7 @@ Plugin para Cordova que combina funcionalidades útiles para integración con ap
 
     cordova plugin add ruta-local/cordova-plugin-foxtrot
 
-Reemplazando `ruta-local` por la ruta al directorio en tu equipo.
+Reemplazando `ruta-local` por la ruta al directorio donde se encuentran los archivos del plugin en tu equipo.
 
 ### Android
 
